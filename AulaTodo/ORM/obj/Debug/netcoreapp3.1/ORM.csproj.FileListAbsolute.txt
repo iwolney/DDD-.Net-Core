@@ -1,0 +1,12 @@
+C:\Projetos\Cursos Udemy\DDD-.Net-Core\AulaTodo\ORM\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Projetos\Cursos Udemy\DDD-.Net-Core\AulaTodo\ORM\obj\Debug\netcoreapp3.1\ORM.csprojAssemblyReference.cache
+C:\Projetos\Cursos Udemy\DDD-.Net-Core\AulaTodo\ORM\obj\Debug\netcoreapp3.1\ORM.AssemblyInfoInputs.cache
+C:\Projetos\Cursos Udemy\DDD-.Net-Core\AulaTodo\ORM\obj\Debug\netcoreapp3.1\ORM.AssemblyInfo.cs
+C:\Projetos\Cursos Udemy\DDD-.Net-Core\AulaTodo\ORM\bin\Debug\netcoreapp3.1\ORM.deps.json
+C:\Projetos\Cursos Udemy\DDD-.Net-Core\AulaTodo\ORM\bin\Debug\netcoreapp3.1\ORM.dll
+C:\Projetos\Cursos Udemy\DDD-.Net-Core\AulaTodo\ORM\bin\Debug\netcoreapp3.1\ORM.pdb
+C:\Projetos\Cursos Udemy\DDD-.Net-Core\AulaTodo\ORM\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Projetos\Cursos Udemy\DDD-.Net-Core\AulaTodo\ORM\obj\Debug\netcoreapp3.1\ORM.csproj.CoreCompileInputs.cache
+C:\Projetos\Cursos Udemy\DDD-.Net-Core\AulaTodo\ORM\obj\Debug\netcoreapp3.1\ORM.csproj.CopyComplete
+C:\Projetos\Cursos Udemy\DDD-.Net-Core\AulaTodo\ORM\obj\Debug\netcoreapp3.1\ORM.dll
+C:\Projetos\Cursos Udemy\DDD-.Net-Core\AulaTodo\ORM\obj\Debug\netcoreapp3.1\ORM.pdb

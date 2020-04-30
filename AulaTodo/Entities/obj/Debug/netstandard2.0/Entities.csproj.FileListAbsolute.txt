@@ -1,5 +1,0 @@
-C:\Projetos\Cursos Udemy\DDD-.Net-Core\AulaTodo\Entities\bin\Debug\netstandard2.0\Entities.deps.json
-C:\Projetos\Cursos Udemy\DDD-.Net-Core\AulaTodo\Entities\bin\Debug\netstandard2.0\Entities.dll
-C:\Projetos\Cursos Udemy\DDD-.Net-Core\AulaTodo\Entities\obj\Debug\netstandard2.0\Entities.csprojAssemblyReference.cache
-C:\Projetos\Cursos Udemy\DDD-.Net-Core\AulaTodo\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfoInputs.cache
-C:\Projetos\Cursos Udemy\DDD-.Net-Core\AulaTodo\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfo.cs

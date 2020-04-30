@@ -6,11 +6,11 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace Entities
 {
-    [Table("Todo")]
-    public class ToDo : EntitieBase<int>
-    {
-        [Required]
-        [Column("Tarefa")]
-        public string Tarefa { get; set; }
-    }
+	[Table("Todo")]
+	public class ToDo : EntitieBase<int>
+	{
+		[Required]
+		[Column("Tarefa")]
+		public string Tarefa { get; set; }
+	}
 }
