@@ -5,9 +5,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>@ViewData["Title"] - Application</title>
 
+    <link href="~/lib/bootstrap44/dist/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="~/css/site.css" rel="stylesheet" />
 </head>
 <body>
-    <header>
+    @*<header>
         <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
             <div class="container">
                 <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">Application</a>
@@ -27,20 +29,23 @@
                 </div>
             </div>
         </nav>
-    </header>
+    </header>*@
     <div class="container">
         <main role="main" class="pb-3">
+            @Application.Models.Notification.Get(TempData)
             @RenderBody()
         </main>
     </div>
 
-    <footer class="border-top footer text-muted">
+    @*<footer class="border-top footer text-muted">
         <div class="container">
             &copy; 2020 - Application - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
         </div>
-    </footer>
+    </footer>*@
 
+    <script src="~/lib/bootstrap44/dist/js/bootstrap.min.js"></script>
 
     @RenderSection("Scripts", required: false)
+
 </body>
 </html>
