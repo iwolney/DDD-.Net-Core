@@ -12,5 +12,6 @@ namespace Entities
 		[Required]
 		[Column("Tarefa")]
 		public string Tarefa { get; set; }
+		public string Observacao { get; set; }
 	}
 }

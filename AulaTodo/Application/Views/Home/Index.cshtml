@@ -15,6 +15,7 @@
             <thead>
                 <tr>
                     <th>Tarefas</th>
+                    <th>Observação</th>
                     <th></th>
                 </tr>
             </thead>
@@ -23,6 +24,7 @@
                 {
                     <tr>
                         <td>@item.Tarefa</td>
+                        <td>@item.Observacao</td>
                         <td>
                             <div class="float-right">
                                 @Html.ActionLink("Editar", "Editar", "Home", new { id = item.Id }, new { @class = "btn btn-warning btn-sm" })

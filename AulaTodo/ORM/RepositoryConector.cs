@@ -8,7 +8,7 @@ namespace ORM
     // Classe para capturar a string de conexão do arquivo .config da Aplicação (Projeto Application aqui)
     public class RepositoryConector
     {
-        // Injeção de Dependências (retirando a responsabilidade da classe de estânciar)
+        // Injeção de Dependências (retirando a responsabilidade da classe de instânciar)
         public IConfiguration _configuration;
         public RepositoryConector(IConfiguration configuration)
         {

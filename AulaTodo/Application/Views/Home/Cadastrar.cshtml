@@ -12,6 +12,8 @@
             <div class="form-group">
                 <label>Nome da Tarefa</label>
                 @Html.TextBoxFor(d => d.Tarefa, new { @class = "form-control" })
+                <label>Observação</label>
+                @Html.TextAreaFor(d => d.Observacao, new { @class = "form-control" })
             </div>
 
             <input type="submit" class="btn btn-success btn-sm" value="Salvar Tarefa" />

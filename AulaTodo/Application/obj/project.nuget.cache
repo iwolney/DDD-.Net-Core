@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "SYRlInQDLMCnXCcqSm8fkF8Rfg1gKP9YVIywSfZatuhWXzYh0PjbdfdLgDyKj4anwmFLBCiau4FuOeUAfsA24Q==",
+  "dgSpecHash": "tDKSJKVT4Qf7mC+ZIBM5DkwlNl+HshoujLcj+f+gDgnGN4OOJSC51VlI165h6nAUpYGnDB7u0UVLabaFslWIdA==",
   "success": true,
   "projectFilePath": "C:\\Projetos\\Cursos Udemy\\DDD-.Net-Core\\AulaTodo\\Application\\Application.csproj",
   "expectedPackageFiles": [
@@ -121,7 +121,8 @@
     "C:\\Users\\Wolney\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.3\\system.threading.tasks.extensions.4.5.3.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.threading.timer\\4.3.0\\system.threading.timer.4.3.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512"
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
+    "C:\\Users\\Wolney\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
   ],
   "logs": []
 }

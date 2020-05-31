@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "yu6QOpZe5Qmc1OS91avgEVJ/g+vcgswGouXWQr8cKlksCZ3OZ1vessbWR5RvNaZ1NALRAz4osEbI8KzLlZD6bw==",
+  "dgSpecHash": "kIB+h0oXNWuCZA5jNT2njInXs3HdGdDCTC9MjNt8tAqR+hgqQ18+RHcaShhJU8vcIVCOzgTzaczr0Na6cDH/zA==",
   "success": true,
   "projectFilePath": "C:\\Projetos\\Cursos Udemy\\DDD-.Net-Core\\AulaTodo\\Entities\\Entities.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Wolney\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
   "logs": []
 }

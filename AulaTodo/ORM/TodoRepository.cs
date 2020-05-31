@@ -19,8 +19,9 @@ namespace ORM
         {
             DynamicParameters par = new DynamicParameters();
             par.Add("@Tarefa", obj.Tarefa);
+            par.Add("@Observacao", obj.Observacao);
 
-            string sql = "insert into todo (Tarefa) values (@Tarefa)";
+            string sql = "insert into todo (Tarefa, Observacao) values (@Tarefa, @Observacao)";
             using (var cnn = new SqlConnection(base.GetConnection()))
             {
                 cnn.Execute(sql, par);
@@ -58,9 +59,11 @@ namespace ORM
 
         public void Update(ToDo obj)
         {
-            string sql = $"update Todo set Tarefa = @Tarefa where Id = {obj.Id}";
+            string sql = $"update Todo set Tarefa = @Tarefa, Observacao = @Observacao where Id = {obj.Id}";
             DynamicParameters par = new DynamicParameters();
             par.Add("@Tarefa", obj.Tarefa);
+            par.Add("@Observacao", obj.Observacao);
+
             using (var cnn = new SqlConnection(base.GetConnection()))
             {
                 cnn.Execute(sql, par);
